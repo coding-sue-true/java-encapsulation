@@ -1,6 +1,8 @@
 # java-encapsulation
 
 ## Encapsulation
+- Font: https://www.adobe.com/devnet/actionscript/learning/oop-concepts/encapsulation.html
+
 - When you create an object in an object-oriented language, you can hide the complexity of the internal workings of the object. As a developer, there are two main reasons why you would choose to hide complexity.
 
 - The first reason is to provide a simplified and understandable way to use your object without the need to understand the complexity inside. As mentioned above, a driver doesn't need to know how an internal combustion engine works. It is sufficient to know how to start the car, how to engage the transmission if you want to move, how to provide fuel, how to stop the car, and how to turn off the engine. You know to use the key, the shifter (and possibly clutch), the gas pedal and the brake pedal to accomplish each of these operations. These basic operations form an interface for the car. Think of an interface as the collection of things you can do to the car without knowing how each of those things works.
